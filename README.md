@@ -3,7 +3,7 @@
 ### Player
 Player 3D model and animations: https://www.mixamo.com/#/
 
-###
+### Gun
 Pistol fire: https://pixabay.com/sound-effects/gun-shot-1-7069/
 
 Pistol reload: https://pixabay.com/sound-effects/pistol-reload-97923/
