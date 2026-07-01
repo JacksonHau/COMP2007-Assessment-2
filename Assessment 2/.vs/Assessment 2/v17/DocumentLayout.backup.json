@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\topdownplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdownplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|C:\\git\\COMP2007-Assessment-2\\Assessment 2\\assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|C:\\git\\COMP2007-Assessment-2\\Assessment 2\\assets\\scripts\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|C:\\git\\COMP2007-Assessment-2\\Assessment 2\\assets\\scripts\\sfxsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sfxsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|C:\\git\\COMP2007-Assessment-2\\Assessment 2\\assets\\scripts\\topdownplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topdownplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|C:\\git\\COMP2007-Assessment-2\\Assessment 2\\assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|c:\\git\\comp2007-assessment-2\\assessment 2\\assets\\scripts\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|C:\\git\\COMP2007-Assessment-2\\Assessment 2\\assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB497C7A-7B86-44E1-CABD-4107056D97EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombiespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
-              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T22:46:51.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TopDownPlayerController.cs",
               "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\TopDownPlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TopDownPlayerController.cs",
               "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\TopDownPlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\TopDownPlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T22:44:50.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "PlayerShooter.cs",
+              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooter.cs",
+              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:49:50.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAI.cs",
+              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZombieAI.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:06:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ZombieSpawner.cs",
               "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\ZombieSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieSpawner.cs",
@@ -81,54 +98,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ZombieAI.cs",
-              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\ZombieAI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ZombieAI.cs",
-              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\ZombieAI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ZombieAI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PickupSpawner.cs",
+              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PickupSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupSpawner.cs",
+              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PickupSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickupSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:06:35.69Z",
+              "WhenOpened": "2025-05-05T21:08:36.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SFXSettings.cs",
-              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\SFXSettings.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SFXSettings.cs",
-              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\SFXSettings.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SFXSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T13:35:32.289Z",
+              "WhenOpened": "2025-05-05T21:08:43.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlayerShooter.cs",
-              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerShooter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooter.cs",
-              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerShooter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerShooter.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAAAEAAAAAAAAAA==",
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver.cs",
+              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:49:50.283Z",
+              "WhenOpened": "2025-05-05T21:08:53.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SFXManager.cs",
-              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\SFXManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SFXManager.cs",
-              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\SFXManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SFXManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\git\\COMP2007-Assessment-2\\Assessment 2\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:38:50.016Z"
+              "WhenOpened": "2025-05-05T21:08:58.851Z",
+              "EditorCaption": ""
             }
           ]
         }
